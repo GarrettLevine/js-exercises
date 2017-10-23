@@ -1,4 +1,7 @@
-# More JavaScript Problems - By HackerYou
+# JavaScript Exercises
+
+All of these challenges were provided via [HackerYou
+](www.hackeryou.com).
 
 Want to spend more time practicing your Javascript chops? Try these extra questions and beef up your brain.
 
