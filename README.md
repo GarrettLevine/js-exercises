@@ -5,7 +5,7 @@ _All of these challenges were provided via [HackerYou
 
 Want to spend more time practicing your Javascript chops? Try these extra questions and beef up your brain.
 
-Questions are divided into three categories: Level 1, Level 2, Level 3. If you’re having trouble, don’t hestitate to grab your nearest mentor.
+Questions are divided into three categories: Level 1, Level 2, Level 3.
 
 Remember: There’s no one right answer out there. If an answer works, and you understand and can explain why it works, it’s a correct one. (Optimization is another thing, however…)
 
